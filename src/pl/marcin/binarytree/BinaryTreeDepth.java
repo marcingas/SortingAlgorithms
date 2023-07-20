@@ -1,4 +1,4 @@
-package pl.marcin.graphtraversal.binarytree;
+package pl.marcin.binarytree;
 
 class Node{
     int value;
